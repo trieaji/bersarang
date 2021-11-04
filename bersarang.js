@@ -43,7 +43,7 @@ mandek++;
 */
 
 
-var masuk = prompt('Ucapkan saja');
+var masuk = prompt('Ucapkan ae');
 var s = '';
 
 for(var z = 1; z <= 5; z++) {
